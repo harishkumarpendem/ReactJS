@@ -1,0 +1,15 @@
+.bg-danger{
+    background: linear-gradient(45deg,lightyellow,darkred);
+}
+.bg-info{
+    background: linear-gradient(45deg,darkviolet,cornflowerblue);
+}
+.bg-warning{
+    background: linear-gradient(45deg,darkviolet,deeppink);
+}
+.bg-success{
+    background: linear-gradient(45deg,darkviolet,greenyellow);
+}
+.bg-secondary{
+    background: linear-gradient(45deg, darkviolet,teal);
+}
